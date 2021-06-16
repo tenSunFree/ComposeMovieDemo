@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComposeMovieDemo</string>
+    <string name="tab_card">卡證</string>
+    <string name="tab_service">服務</string>
+    <string name="tab_store_recommend">Recommend movies</string>
+    <string name="tab_home">首頁</string>
+    <string name="tab_discount">優惠</string>
+    <string name="tab_bill">帳單</string>
+    <string name="search_dialog_ok">OK</string>
+    <string name="search_dialog_tip">Warning</string>
+    <string name="search_none">Got no movie or too large result.</string>
+    <string name="search_failure">Check network please.</string>
+</resources>
